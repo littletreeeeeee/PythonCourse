@@ -1,4 +1,5 @@
-sales = {'iphone6': 500, 'iphone7': 800, 'iphone8': 1000, 'iphoneXS': 1800}
+sales = {'iphone6': 500, 'iphone7': 800, 'iphone8': 1000, 'iphoneXS': 1900}
+sales = {'iphone6': 500, 'iphone7': 800, 'iphone8': 1000, 'iphoneXS': 1900}
 print type(sales)
 print sales['iphoneXS'], sales['iphone8']
 # print sales['xxxx']
