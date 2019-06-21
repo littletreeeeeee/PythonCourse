@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/data/data4.csv" charset="x-windows-950" />
     <file url="file://$PROJECT_DIR$/data/data4.csv" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/data/data5.csv" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/data/page.csv" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/data/page.csv" charset="UTF-8" />
+    <file url="file://$USER_HOME$/notebook/eula/eula.1028.txt" charset="UTF-8" />
+    <file url="file://$USER_HOME$/notebook/eula/eula.1031.txt" charset="UTF-8" />
+    <file url="file://$USER_HOME$/notebook/eula/eula.1033.txt" charset="UTF-8" />
   </component>
 </project>
